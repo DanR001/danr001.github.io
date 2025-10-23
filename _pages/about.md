@@ -6,7 +6,7 @@ subtitle: <a href="https://www.southampton.ac.uk/">University of Southampton</a>
 
 profile:
   align: right
-  image: DRidphoto2.jpg
+  image: DRidphoto2.png
   image_circular: true # crops the image to make it circular
 #  more_info: >
 #    <p>555 your office number</p>
