@@ -57,6 +57,13 @@ max_width: 930px
 # TODO: add layout settings (single page vs. multi-page)
 
 # -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+orcid_id: 0009-0009-7662-0445 # your ORCID ID
+scholar_userid: ZoAVvJ0AAAAJ
+github_username: DanR001
+linkedin_username: daniel-roberts-astro
+# -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
 # Display links to the page with a preview object on social media.
