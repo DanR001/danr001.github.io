@@ -7,8 +7,6 @@ first_name: Dan
 middle_name:
 last_name: Roberts
 email: d.m.roberts@soton.ac.uk
-contact_note: >
-  You can even add a little note about which of these is the best way to reach you.
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Computational Astrophysicist
 footer_text: >
